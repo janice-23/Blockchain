@@ -22,7 +22,6 @@
   - **Hash**: A cryptographic hash to identity the unique block. If anything changes in the block, the hash will change and it is obvious that the block has been tampered with. Hash allows for easy detection to see if a block changed. 
   - **Previous hash:** The hash of the previous block is also linked to the current block, in order to avoid fraud and tampering. 
 
-![Screen Shot 2019-06-20 at 5.20.42 PM](/Users/janiceng/Desktop/Screen Shot 2019-06-20 at 5.20.42 PM.png)
 
 **Here’s an analogy to help:** 
 
