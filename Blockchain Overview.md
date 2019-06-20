@@ -43,16 +43,16 @@
 
 - **Immutability:**
 
-- - Offer immutable transactions from Proof-of-Work system, a process to reach consensus to agree on a single version of history
+ - Offer immutable transactions from Proof-of-Work system, a process to reach consensus to agree on a single version of history
   - No one can change or delete once published once the transaction has been executed 
 
 - **Security:** 
 
-- - Decentralised system; less likely to be the target of a hack as there is no one single point of failure/ no single entity to attack
+ - Decentralised system; less likely to be the target of a hack as there is no one single point of failure/ no single entity to attack
 
 - **Redundancy:** 
 
-- - With a distributed system, the data is distributed in multiple places around the world. This means that the data is extremely secure and impossible to lose. 
+ - With a distributed system, the data is distributed in multiple places around the world. This means that the data is extremely secure and impossible to lose. 
 
 - **Trustless**:
   - Does not require people to explicitly know or trust each other for the system to function 
