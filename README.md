@@ -1,4 +1,4 @@
 # Blockchain
 My compiled notes on the concept of Blockchain. 
 
-[Blockchain Overview] Blockchain/Blockchain Overview.md
+Contribution guidelines for this project (Blockchain/BlockchainOverview.md)
