@@ -1,2 +1,2 @@
 # Blockchain
-Notes on Blockchain
+My notes on concepts regarding Blockchain.
