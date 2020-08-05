@@ -55,7 +55,7 @@ Janice Ng, October 2018
 - Ability to substantially alleviate the computation that is currently congesting the main chain 
 - Lower processing and storage requirements 
 
-**Disadvantages of Plasma **
+Disadvantages of Plasma
 
 - Concept of “ *mass exits”*  from the child chains 
 - Coordinated simultaneous exit from the child chain may potentially result in a  *lack* of processing capacity to withdraw all the funds. As a result, users *could lose funds*. 
